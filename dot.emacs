@@ -1,6 +1,7 @@
-;; last modified 2012/08/29
+;; last modified 2012/08/30
+
 (setq inhibit-startup-screen t)
-(setq backup-inhibited nil)
+(setq make-backup-files nil)
 
 (tool-bar-mode nil)
 (menu-bar-mode nil)
