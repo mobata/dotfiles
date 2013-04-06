@@ -11,7 +11,7 @@
 (column-number-mode t)
 
 (global-font-lock-mode t)
-(global-whitespace-mode t)
+;;(global-whitespace-mode t)
 (transient-mark-mode t)
 (show-paren-mode t)
 (global-hl-line-mode)
